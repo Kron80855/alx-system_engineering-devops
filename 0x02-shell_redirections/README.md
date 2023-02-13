@@ -6,3 +6,4 @@ showing the 10 last lines of file
 show the 10 lastlines
 show first lines
 a script that shows  iecta
+print contents
