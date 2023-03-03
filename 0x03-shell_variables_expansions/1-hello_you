@@ -1,2 +1,3 @@
-#!/bin/ban
-hello suser
+#!/bin/bash
+echo "hello $USER"
+
